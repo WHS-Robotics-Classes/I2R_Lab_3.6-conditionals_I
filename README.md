@@ -22,6 +22,6 @@ Use the video below as a reference.
 
 ### Step Three: Debug and Submit
 
-[![3.6_Video](http://img.youtube.com/vi/y0xzbV8Tw1U.jpg)](https://www.youtube.com/watch?v=y0xzbV8Tw1U "3.6-Conditionals I")
+[![3.6_Video](http://img.youtube.com/vi/y0xzbV8Tw1U/0.jpg)](https://www.youtube.com/watch?v=y0xzbV8Tw1U "3.6-Conditionals I")
 
 Make sure your prototype behaves the same way as the one in the video. As in the previous assignment, make a new file here on GitHub. Name it 3.6_Conditionals_I.ino and Commit it to the repository.
