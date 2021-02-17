@@ -15,12 +15,13 @@ Before you start, review the Arduino Reference page on [`if()`](https://www.ardu
 
 1. Recycle your code from lab 3.55.  You will keep the structure that reads the alalog pin and ad a conditional to it. [Codebender IDE](https://edu.codebender.cc/class/1ajtp).
 2. Modify the code so your sketch does the following:
-    - Turn on the LED_BUILTIN ligth when the value of 
+    - Turn on the LED_BUILTIN ligth when the value of 515 or greater is received over pin A0
+    - Turn it off otherwise
 
 Use the video below as a reference.
 
 ### Step Three: Debug and Submit
 
-[![3.55_Video](http://img.youtube.com/vi/nPcxHFvlSNA/0.jpg)](https://www.youtube.com/watch?v=nPcxHFvlSNA "3.55-Analog Input Video")
+[![3.6_Video](http://img.youtube.com/vi/y0xzbV8Tw1U.jpg)](https://www.youtube.com/watch?v=y0xzbV8Tw1U "3.6-Conditionals I")
 
-Make sure your prototype behaves the same way as the one in the video. As in the previous assignment, make a new file here on GitHub. Name it 3.55_Analog_Input.ino and Commit it to the repository.
+Make sure your prototype behaves the same way as the one in the video. As in the previous assignment, make a new file here on GitHub. Name it 3.6_Conditionals_I.ino and Commit it to the repository.
