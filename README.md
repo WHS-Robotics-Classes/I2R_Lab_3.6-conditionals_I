@@ -1,4 +1,4 @@
-# Arduino 3.55-Analog Input
+# Arduino 3.6 - Conditionals I
 ## In this assignment you will take what you learned with analog sensors and combine it with `if()` and `else` to begin making decisions. 
 
 ---
