@@ -14,7 +14,7 @@ Build your circuit according to this schematic (same as lab 3.55):
 
 Before you start, review the Arduino Reference page on [`if()`](https://www.arduino.cc/reference/en/language/structure/control-structure/if/).  Also review what you did last week with `analogRead()` as you will need to use those concepts again.
 
-1. Recycle your code from Lab 3.55 - Analog Input.  You will keep the structure that reads the alalog pin and add a conditional to it in the [Codebender IDE](https://edu.codebender.cc/class/1ajtp).
+1. Recycle your code from Lab 3.55 - Analog Input.  You will keep the structure that reads the alalog pin and add a conditional to it in the Arduino Web Editor.
 2. Modify the code so your sketch does the following:
     - Turn on the LED_BUILTIN light when the value of 512 or greater is received over pin A0 using `AnalogRead()`.
     - Turn it off otherwise.
