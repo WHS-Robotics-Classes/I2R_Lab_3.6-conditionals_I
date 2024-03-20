@@ -16,13 +16,11 @@ Before you start, review the Arduino Reference page on [`if()`](https://www.ardu
 
 1. Recycle your code from Lab 3.55 - Analog Input.  You will keep the structure that reads the alalog pin and add a conditional to it in the Arduino Web Editor.
 2. Modify the code so your sketch does the following:
-    - Turn on the LED_BUILTIN light when the value of 512 or greater is received over pin A0 using `AnalogRead()`.
+    - Turn on the LED_BUILTIN light when the value of 512 or less is received over pin A0 using `AnalogRead()`.
     - Turn it off otherwise.
 
 Use the video below as a reference.
 
 ### Step Three: Debug and Submit
-
-[![3.6_Video](http://img.youtube.com/vi/y0xzbV8Tw1U/0.jpg)](https://www.youtube.com/watch?v=y0xzbV8Tw1U "3.6-Conditionals I")
 
 Make sure your prototype behaves the same way as the one in the video. As in the previous assignment, make a new file here on GitHub. Name it 3.6_Conditionals_I.ino and Commit it to the repository.
